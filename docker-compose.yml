@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  apod:
+    build: .
+    image: nasa-astro-image-app
+    stdin_open: true
+    tty: true
+    volumes:
+      - .:/app
