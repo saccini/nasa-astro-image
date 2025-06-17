@@ -27,8 +27,8 @@ The -it flag enables interactive mode to prompt you for a date.
 
 ## 📦 Output
 
-Image saved in images/
-Metadata saved to data/metadata.csv
+- Image saved in images/
+- Metadata saved to data/metadata.csv
 
 ## 🗂 Project Structure
 
