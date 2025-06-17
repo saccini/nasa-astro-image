@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# === Project-specific ignores ===
+images/
+data/
+
 # C extensions
 *.so
 
